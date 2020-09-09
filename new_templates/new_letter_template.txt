@@ -1,0 +1,26 @@
+[[first_name]] [[last_name]]
+[[company_name]]
+[[address]], [[city]],
+[[county]], [[state]], [[zip]]
+[[phone1]]
+[[email]]
+
+Dear [[first_name]] [[last_name]],
+I Hope this email finds you well. 
+Our company recently suffered a devastating data breach. So sorry to bring you this bad news that your following information might be stolen during this intrusion:
+First name: [[first_name]]
+Last name: [[last_name]]
+Address: [[address]]
+Email address: [[email]]
+
+I apologize for any inconvenience it may cause you by this data breach. 
+
+Dear [[first_name]] [[last_name]], we truly value you as a customer, and your trust is important to us, our company is offering you $100 credit or one year of free credit monitoring through our new product. More detailed information about this compensation will be sent to your email soon.
+
+If you have further questions, you can find more information about this incident on our website or feel free to call us at 888-245-8735. 
+
+Thank you for your understanding and your trust. 
+
+Sincerely,
+Seattle Insurance inc. CEO
+Paul Dan
